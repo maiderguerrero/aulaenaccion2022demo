@@ -2319,6 +2319,36 @@ hr {
     background: #eeeeee;
 }
 
+/*Caja 20*/
+
+.bck-box.bck-box-20 {
+	min-height: auto;
+	margin-top: 20px;
+    padding: 0px;
+    background: #fff;
+    margin-bottom: 45px;
+    border: 15px solid #fdeed7;
+}
+
+
+.bck-box-20 > .bck-title {
+	color: #fff;
+	text-align: center;
+	background-color: #fdeed7;
+	padding: 15px;
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.bck-box-20 > .bck-title:before {
+	display: none;
+}
+
+.bck-box-20 > .bck-content {
+	background: #fff;
+	border-bottom: none;
+	padding: 15px;
+}
 
 
 /*CAJA POP-UP*/
