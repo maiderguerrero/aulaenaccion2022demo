@@ -281,15 +281,15 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
-#list-units .unittag_textbook_aulaenaccion2022demo {
+#list-units .unittag_textbook_aulaenaccion2022 {
 	background: #31a2c7 !important;
 }
 
-#list-units .unittag_textbook_aulaenaccion2022demo:hover {
+#list-units .unittag_textbook_aulaenaccion2022:hover {
 	background: #3333337d !important;
 }
 
-.units ul#list-units .unittag_textbook_aulaenaccion2022demo a .title {
+.units ul#list-units .unittag_textbook_aulaenaccion2022 a .title {
 	color: #ffffff;
 }
 
@@ -297,11 +297,11 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #000;
 }
 
-#list-units .unittag_titulo_aulaabierta {
+#list-units .unittag_titulo_aulaenaccion2022 {
     background: #c82918 !important;
 }
 
-.units ul#list-units .unittag_titulo_aulaabierta a .title{
+.units ul#list-units .unittag_titulo_aulaenaccion2022 a .title{
 	color: #fff;
 }
 
@@ -3053,7 +3053,7 @@ th {
 
 /*Título slide unittag interactive activities*/
 
-.unittag_activities_aulaabierta #actividad .content .header .title h3 {
+.unittag_activities_aulaenaccion2022 #actividad .content .header .title h3 {
 	font-size: 2.1rem;
 }
 
@@ -3096,29 +3096,29 @@ th {
 /*Unittags TOC*/
 
 
-#list-units .unittag_textbook_aulaabierta {
+#list-units .unittag_textbook_aulaenaccion2022  {
     background: #c82918 !important;
 }
 
-.units ul#list-units .unittag_textbook_aulaabierta a .title {
+.units ul#list-units .unittag_textbook_aulaenaccion2022 a .title {
     color: #ffffff;
 }
 
-#list-units .unittag_textbook_aulaabierta:hover {
+#list-units .unittag_textbook_aulaenaccion2022:hover {
     background: #fff !important;
     border-bottom: 2px solid #c82918;
 }
 
 
-#list-units .unittag_activities_aulaabierta {
+#list-units .unittag_activities_aulaenaccion2022 {
     background: #efdada !important;
 }
 
-.units ul#list-units .unittag_activities_aulaabierta a .title {
+.units ul#list-units .unittag_activities_aulaenaccion2022 a .title {
     color: #000;
 }
 
-#list-units .unittag_activities_aulaabierta:hover {
+#list-units .unittag_activities_aulaenaccion2022:hover {
     background: #fff !important;
     border-bottom: 2px solid #c82918;
     border: none;
