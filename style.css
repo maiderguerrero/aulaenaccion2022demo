@@ -1098,12 +1098,14 @@ hr {
 }
 
 /*Énfasis 17*/
+
 .bck-enfasis-17 {
-	background-color: #fff;
-	display: inline-block;
-	margin-right: 10px;
-	border-radius: 5px;
-	padding: 10px;
+    background-color: #fff;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 20px;
 }
 
 
