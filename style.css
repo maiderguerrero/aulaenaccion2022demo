@@ -1106,6 +1106,8 @@ hr {
     border-radius: 5px;
     padding: 5px 10px;
     font-size: 20px;
+    -webkit-box-shadow: 2px 3px 5px 0 #b3b3b3;
+    box-shadow: 2px 3px 5px 0 #b3b3b3;
 }
 
 
