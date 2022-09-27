@@ -1097,6 +1097,15 @@ hr {
 	color: #c75940;
 }
 
+/*Énfasis 17*/
+.bck-enfasis-17 {
+	background-color: #fff;
+	display: inline-block;
+	margin-right: 10px;
+	border-radius: 5px;
+	padding: 10px;
+}
+
 
 /*----------------------LISTAS-----------------------*/
 #actividad .content .cke_contents .bck-ol li:before,
@@ -2325,19 +2334,21 @@ hr {
 	min-height: auto;
 	margin-top: 20px;
     padding: 0px;
-    background: #fff;
+    background: #fdeed7;
     margin-bottom: 45px;
     border: 15px solid #fdeed7;
 }
 
 
 .bck-box-20 > .bck-title {
-	color: #fff;
-	text-align: center;
-	background-color: #fdeed7;
-	padding: 15px;
-	border-bottom: none;
-	margin-bottom: 0px;
+	color: #000;
+    text-align: center;
+    background-color: #fdeed7;
+    padding: 15px;
+    border-bottom: none;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 15px;
 }
 
 .bck-box-20 > .bck-title:before {
@@ -2348,6 +2359,7 @@ hr {
 	background: #fff;
 	border-bottom: none;
 	padding: 15px;
+	border-radius: 20px;
 }
 
 
