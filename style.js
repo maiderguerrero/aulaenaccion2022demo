@@ -95,6 +95,7 @@
                 { name: 'Icono 06', element: 'span', attributes: { 'class': 'icon icon-6' } },
                 { name: 'Icono 07', element: 'span', attributes: { 'class': 'icon icon-7' } },
                 { name: 'Icono 08', element: 'span', attributes: { 'class': 'icon icon-8' } },
+                { name: 'Icono 09', element: 'span', attributes: { 'class': 'icon icon-9' } },
 
                 { name: 'Celda 01', element: 'td', attributes: { 'class': 'celda-1' } },
                 { name: 'Celda 02', element: 'td', attributes: { 'class': 'celda-2' } },
