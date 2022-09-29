@@ -2673,7 +2673,7 @@ body:not(.edit) .back .bck-flipbox-section {
 /*Icono 1*/
 
 .item-container .icon-1:before {
-	background-image: url(imagenes/icono_parejas_aulaabierta.jpg);
+	background-image: url(imagenes/icono_parejas_aulaenaccion2022.jpg);
 	width: 25px;
     height: 25px;
     vertical-align: top;
@@ -2683,7 +2683,7 @@ body:not(.edit) .back .bck-flipbox-section {
 /*Icono 2*/
 
 .item-container .icon-2:before {
-	background-image: url(imagenes/icono_grupos_aulaabierta.jpg);
+	background-image: url(imagenes/icono_grupos_aulaenaccion2022.jpg);
 	width: 25px;
     height: 25px;
     vertical-align: top;
@@ -2693,7 +2693,7 @@ body:not(.edit) .back .bck-flipbox-section {
 /*Icono 3*/
 
 .item-container .icon-3:before {
-	background-image: url(imagenes/icono_audio_aulaabierta.jpg);
+	background-image: url(imagenes/icono_audio_aulaenaccion2022.jpg);
 	width: 25px;
     height: 25px;
     vertical-align: top;
@@ -2703,7 +2703,7 @@ body:not(.edit) .back .bck-flipbox-section {
 /*Icono 4*/
 
 .item-container .icon-4:before {
-	background-image: url(imagenes/icono_lupa_aulaabierta.jpg);
+	background-image: url(imagenes/icono_lupa_aulaenaccion2022.jpg);
 	width: 25px;
     height: 25px;
     vertical-align: top;
@@ -2746,7 +2746,17 @@ body:not(.edit) .back .bck-flipbox-section {
 /*Icono 8*/
 
 .item-container .icon-8:before {
-	background-image: url(imagenes/icono_flechas_aulaabierta.jpg);
+	background-image: url(imagenes/icono_flechas_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 9*/
+
+.item-container .icon-9:before {
+	background-image: url(imagenes/icono_play_aulaenaccion2022.jpg);
 	width: 25px;
     height: 25px;
     vertical-align: top;
