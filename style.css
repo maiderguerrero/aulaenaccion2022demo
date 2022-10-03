@@ -3059,6 +3059,15 @@ th {
 	color: #333;
 }
 
+/*SECCIONES*/
+
+.contenidos .bck-underline,
+.contenidos .bck-tooltip {
+    text-decoration: none;
+    border-bottom: 1px solid #fff;
+}
+
+
 /*TAGS*/
 
 /*Título slide unittag interactive activities*/
