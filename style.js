@@ -86,6 +86,9 @@
                 { name: 'Caja 18', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-18' } },
                 { name: 'Caja 19', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-19' } },
                 { name: 'Caja 20', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-20' } },
+                { name: 'Caja 21', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-21' } },
+                { name: 'Caja 22', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-22' } },
+                { name: 'Caja 23', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-23' } },
 
                 { name: 'Icono 01', element: 'span', attributes: { 'class': 'icon icon-1' } },
                 { name: 'Icono 02', element: 'span', attributes: { 'class': 'icon icon-2' } },
@@ -96,11 +99,19 @@
                 { name: 'Icono 07', element: 'span', attributes: { 'class': 'icon icon-7' } },
                 { name: 'Icono 08', element: 'span', attributes: { 'class': 'icon icon-8' } },
                 { name: 'Icono 09', element: 'span', attributes: { 'class': 'icon icon-9' } },
+                { name: 'Icono 10', element: 'span', attributes: { 'class': 'icon icon-10' } },
+                { name: 'Icono 11', element: 'span', attributes: { 'class': 'icon icon-11' } },
+                { name: 'Icono 12', element: 'span', attributes: { 'class': 'icon icon-12' } },
+                { name: 'Icono 13', element: 'span', attributes: { 'class': 'icon icon-13' } },
+                { name: 'Icono 14', element: 'span', attributes: { 'class': 'icon icon-14' } },
+                { name: 'Icono 15', element: 'span', attributes: { 'class': 'icon icon-15' } },
 
                 { name: 'Celda 01', element: 'td', attributes: { 'class': 'celda-1' } },
                 { name: 'Celda 02', element: 'td', attributes: { 'class': 'celda-2' } },
                 { name: 'Celda 03', element: 'td', attributes: { 'class': 'celda-3' } },
                 { name: 'Celda 04', element: 'td', attributes: { 'class': 'celda-4' } },
+                { name: 'Celda 05', element: 'td', attributes: { 'class': 'celda-5' } },
+
 
                 { name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
                 { name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } }
