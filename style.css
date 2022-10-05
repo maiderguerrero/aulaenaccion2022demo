@@ -986,7 +986,6 @@ hr {
 
 .bck-enfasis-5 {
 	font-family: 'Marydale', Sans-Serif;
-	color: #0057A4;
 	font-size: 2.2rem;
 }
 
@@ -2380,6 +2379,173 @@ hr {
 	border-radius: 20px;
 }
 
+
+
+/*Caja 21*/
+
+.bck-box.bck-box-21 {
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #545655;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
+	margin-bottom: 35px;
+}
+
+
+.bck-box.bck-box-21:before,
+.bck-box.bck-box-21:after {
+	display: none;
+}
+
+
+.bck-box.bck-box-21 > .bck-title,
+.bck-box-21 > .bck-title {
+	color: #545655;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+
+.bck-box.bck-box-21 > .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
+
+.bck-box.bck-box-21 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	padding-top: 0px;
+	border-bottom: none;
+}
+
+/*Caja 22*/
+
+/*CAJA 4*/
+
+.bck-box.bck-box-22 {
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #545655;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
+	margin-bottom: 35px;
+}
+
+
+.bck-box.bck-box-22:before,
+.bck-box.bck-box-22:after {
+	display: none;
+}
+
+
+.bck-box.bck-box-22 > .bck-title,
+.bck-box-22 > .bck-title {
+	color: #545655;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+
+.bck-box.bck-box-22 > .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
+
+.bck-box.bck-box-22 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	padding-top: 0px;
+	border-bottom: none;
+}
+
+/*Caja 23*/
+
+/*CAJA 4*/
+
+.bck-box.bck-box-23 {
+	min-height: auto;
+	margin-top: 20px;
+	background-color: #F9FAF8;
+	color: #545655;
+	-webkit-box-shadow: 0 9px 15px 5px #D4D2D2;
+	box-shadow: 0 9px 15px 5px #D4D2D2;
+	font-size: 16px;
+	border: none;
+	margin-bottom: 35px;
+}
+
+
+.bck-box.bck-box-23:before,
+.bck-box.bck-box-23:after {
+	display: none;
+}
+
+
+.bck-box.bck-box-23 > .bck-title,
+.bck-box-23 > .bck-title {
+	color: #545655;
+    font-size: 16px;
+    text-align: left;
+    background-color: transparent;
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    border-radius: 0px;
+    font-weight: 800;
+}
+
+
+.bck-box.bck-box-23 > .bck-title:before {
+	content: " ";
+    position: absolute;
+    padding: 11px;
+    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -1px;
+    margin-left: -40px;
+}
+
+
+.bck-box.bck-box-23 > .bck-content {
+	padding: 10px;
+	padding-left: 10px;
+	padding-top: 0px;
+	border-bottom: none;
+}
 
 /*CAJA POP-UP*/
 .info-popover .popover-title:before,
