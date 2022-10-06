@@ -2420,7 +2420,7 @@ hr {
 	content: " ";
     position: absolute;
     padding: 11px;
-    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-image: url(imagenes/icono_cajaglosario_aulaenaccion2022.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-top: -1px;
@@ -2436,8 +2436,6 @@ hr {
 }
 
 /*Caja 22*/
-
-/*CAJA 4*/
 
 .bck-box.bck-box-22 {
 	min-height: auto;
@@ -2476,7 +2474,7 @@ hr {
 	content: " ";
     position: absolute;
     padding: 11px;
-    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-image: url(imagenes/icono_cajaparaevaluar_aulaenaccion2022.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-top: -1px;
@@ -2493,7 +2491,6 @@ hr {
 
 /*Caja 23*/
 
-/*CAJA 4*/
 
 .bck-box.bck-box-23 {
 	min-height: auto;
@@ -2528,7 +2525,7 @@ hr {
 	content: " ";
     position: absolute;
     padding: 11px;
-    background-image: url(imagenes/icono_cajaestrategiagris_aulaabierta.png);
+    background-image: url(imagenes/icono_cajaestrategia_aulaenaccion2022.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-top: -1px;
