@@ -2938,6 +2938,66 @@ body:not(.edit) .back .bck-flipbox-section {
 }
 
 
+/*Icono 10*/
+
+.item-container .icon-10:before {
+	background-image: url(imagenes/icono_parejas_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 11*/
+
+.item-container .icon-11:before {
+	background-image: url(imagenes/icono_grupos_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 12*/
+
+.item-container .icon-12:before {
+	background-image: url(imagenes/icono_audio_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 13*/
+
+.item-container .icon-13:before {
+	background-image: url(imagenes/icono_lupa_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 14*/
+
+.item-container .icon-14:before {
+	background-image: url(imagenes/icono_flechas_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+/*Icono 15*/
+
+.item-container .icon-15:before {
+	background-image: url(imagenes/icono_play_negro_aulaenaccion2022.jpg);
+	width: 25px;
+    height: 25px;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
 /**TABLA**/
 table,
 .bck-table {
