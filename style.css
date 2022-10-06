@@ -2524,12 +2524,12 @@ hr {
 .bck-box.bck-box-23 > .bck-title:before {
 	content: " ";
     position: absolute;
-    padding: 11px;
+    padding: 20px;
     background-image: url(imagenes/icono_cajaestrategia_aulaenaccion2022.png);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-top: -1px;
-    margin-left: -40px;
+    margin-top: -7px;
+    margin-left: -43px;
 }
 
 
@@ -3041,6 +3041,11 @@ th {
     border: 3px solid #fff;
 }
 
+/*Celda 5*/
+
+.celda-5 {
+    padding: 15px;
+}
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
