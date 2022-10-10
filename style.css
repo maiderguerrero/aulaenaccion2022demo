@@ -1130,6 +1130,9 @@ hr {
     color: #fff;
     background-color: #c82918;
     padding: 2px 6px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 5px;
 }
 
 /*----------------------LISTAS-----------------------*/
