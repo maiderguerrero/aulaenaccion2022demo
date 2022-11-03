@@ -1,5 +1,4 @@
 
-/*Estilo AULA ABIERTA - CSS*/
 
 :root{
 
@@ -635,7 +634,7 @@ body.is_app .aulaenaccion2022demo-navbar.ocultar {
 #help-panel-content .player,
 #remote-alert-modal-rich .player {
 	height: 25px !important;
-	width: 27px;
+	width: 25px;
 	display: inline-block;
 	background-repeat: no-repeat;
 	border-radius: 100%;
